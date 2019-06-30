@@ -1,10 +1,10 @@
 # Nudger: The Confusion Engine
 
-idea: @charlottemcclintock
+idea: [@charlottemcclintock](https://github.com/charlottemcclintock)
 
-coder: @rohitmusti
+coder: [@rohitmusti](https://rohitmusti.dev)
 
-googler utility author: @jarun
+googler utility author: [@jarun](https://github.com/jarun)
 
 ## What is it?
 
