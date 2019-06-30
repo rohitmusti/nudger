@@ -1,4 +1,4 @@
-# Self-Nudger
+# Nudger: The Confusion Engine
 
 idea: @charlottemcclintock
 coder: @rohitmusti
@@ -39,6 +39,7 @@ We have a few next steps in mind.
 1. Create a MAC status bar app with a nice GUI to make this more user friendly.
 1. Create a Windows application.
 1. Create a Linux application.
+1. Add in Facebook and Amazon capabilitie to increase sites that we search.
 
 ## Suggestions?
 
