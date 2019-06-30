@@ -1,8 +1,8 @@
 # Nudger: The Confusion Engine
 
-idea: [@charlottemcclintock](https://github.com/charlottemcclintock)
+original idea: [@charlottemcclintock](https://github.com/charlottemcclintock)
 
-coder: [@rohitmusti](https://rohitmusti.dev)
+developer: [@rohitmusti](https://rohitmusti.dev)
 
 googler utility author: [@jarun](https://github.com/jarun)
 
