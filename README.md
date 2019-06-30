@@ -1,7 +1,9 @@
 # Nudger: The Confusion Engine
 
 idea: @charlottemcclintock
+
 coder: @rohitmusti
+
 googler utility author: @jarun
 
 ## What is it?
@@ -26,7 +28,7 @@ We hope to add more queries to this set and create more sets.
 
 ## Set up process
 
-1. Download 'googler' from https://github.com/jarun/googler
+1. Download `googler` from https://github.com/jarun/googler
 1. Download this github repository.
 1. Run `python3 nudger.py` from your computer's commandline.
 	- More information [here](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course) and [here](https://learntocodewith.me/getting-started/topics/command-line/)
@@ -36,7 +38,7 @@ We hope to add more queries to this set and create more sets.
 We have a few next steps in mind.
 
 1. Add in more categories and implement CLI args to make it simpler to switch between different categories.
-1. Create a MAC status bar app with a nice GUI to make this more user friendly.
+1. Create a Mac status bar app with a nice GUI to make this more user friendly.
 1. Create a Windows application.
 1. Create a Linux application.
 1. Add in Facebook and Amazon capabilitie to increase sites that we search.
