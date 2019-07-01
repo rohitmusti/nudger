@@ -41,7 +41,7 @@ We have a few next steps in mind.
 1. Create a Mac status bar app with a nice GUI to make this more user friendly.
 1. Create a Windows application.
 1. Create a Linux application.
-1. Add in Facebook and Amazon capabilitie to increase sites that we search.
+1. Add in Facebook and Amazon capabilities to increase sites that we search.
 
 ## Suggestions?
 
