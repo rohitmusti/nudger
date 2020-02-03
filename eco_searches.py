@@ -1,8 +1,3 @@
-import subprocess
-import sys, os
-import random
-from time import sleep
-
 climate_change = ["climate", "climate change", "earth", "climate issues",
                   "ocean rising", "nature preservation", "ocean", 
                   "global warming", "sustainable companies",
@@ -61,10 +56,3 @@ climate_change = ["climate", "climate change", "earth", "climate issues",
 				  "Value (economic) ","Vector (disease) ",
 				  "Vulnerability ","Vulnerability assessment ",
 				  "Water security ","Water stress "]
-
-with open(os.devnull, 'w') as devnull:
-	len_list = len(climate_change)
-	while 1:
-		term = climate_change[random.randrange(1, len_list)]
-		subprocess.run(["googler", "--np", term], stdout=devnull)
-		sleep(1)
