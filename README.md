@@ -28,10 +28,9 @@ We hope to add more queries to this set and create more sets.
 
 ## Set up process
 
-1. Download `googler` from https://github.com/jarun/googler
+1. Install selenium: `pip3 install selenium`
+1. Install the chrome driver: `brew cask install chromedriver`
 1. Download this github repository.
-1. Run `python3 nudger.py` from your computer's commandline.
-	- More information [here](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course) and [here](https://learntocodewith.me/getting-started/topics/command-line/)
 
 ## Want to contribute?
 
